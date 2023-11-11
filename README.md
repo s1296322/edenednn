@@ -5,7 +5,7 @@ Name:
 So Cheuk Him(s12283545),
 yy (00000100)
 
-Application link: https://projectsample381.render.com/
+Application link: https://project-sample.onrender.com/
 
 ********************************************
 # Login
@@ -13,9 +13,9 @@ Through the login interface, each user can access the restaurant information man
 
 Each user has a userID and password;
 [
-	{userid: user1, password: cs381},
-	{userid: user2, password: cs381},
-	{suerid: user3, password: cs381}
+	{userid: 001, password: abc},
+	{userid: 002, password: abc},
+	{userid: 003, password: abc}
 
 ]
 
