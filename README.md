@@ -2,7 +2,7 @@ Restaurant management system
 
 Group: 11
 Name: 
-XX (00000000),
+So Cheuk Him(s12283545),
 yy (00000100)
 
 Application link: https://projectsample381.render.com/
